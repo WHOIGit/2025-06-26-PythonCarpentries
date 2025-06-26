@@ -95,6 +95,8 @@ the pitch.
 {% endcomment %}
 
 <p>
+Collaborative Google Document Link: https://tinyurl.com/ywrbvynt 
+
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
