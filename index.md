@@ -286,7 +286,7 @@ Display the contact email address set in the configuration file.
 
 <p id="collaborativenotes">
   <strong>Google Document Link:</strong>
-  To access and add to the course notes, visit: https://tinyurl.com/ywrbvynt 
+  To access and add to the course notes, visit: <a href="https://tinyurl.com/ywrbvynt">https://tinyurl.com/ywrbvynt</a>	
 </p>
 
 {% comment %}
